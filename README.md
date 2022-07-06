@@ -10,7 +10,7 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=nikhilbv&column=9&theme=aura_dark&no-frame=true"/>
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilbv&show_icons=true&theme=apprentice)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilbv&show_icons=true&theme=bear)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbv&layout=compact)
 
